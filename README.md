@@ -1,2 +1,2 @@
-# sarojkumar007.github.io
-My portfolio
+# site-assets
+static files for my site
